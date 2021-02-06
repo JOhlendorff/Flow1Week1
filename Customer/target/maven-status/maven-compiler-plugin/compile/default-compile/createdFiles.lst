@@ -1,0 +1,4 @@
+entities\Customer_.class
+entities\EntityTested.class
+entities\Customer.class
+facades\CustomerFacade.class
